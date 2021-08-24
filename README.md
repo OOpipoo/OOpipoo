@@ -3,5 +3,4 @@
 - 🔭 About me: I'm a beginner Unity developer
 
 - 🌱 Languages and Tools: C# and Unity
-
-- 📫 How to reach me: ..
+ 
