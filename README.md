@@ -4,5 +4,5 @@
 
 - 🌱 Languages and Tools 
 ![Unity](https://img.shields.io/badge/-Unity-F7EBE3?style=for-the-badge&logo=Unity&logoColor=100A08)
-![C#](https://img.shields.io/badge/-C#-F7EBE3?style=for-the-badge&logo=C#)
+![C#](https://img.shields.io/badge/-csharp-F7EBE3?style=for-the-badge&logo=csharp)
  
