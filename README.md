@@ -3,8 +3,10 @@
 - 🔭 About me: I'm a beginner Unity developer
 
 - 🌱 Languages and Tools:	
-![Unity](https://img.shields.io/badge/-Unity-<F0E4DD>?style=for-the-badge&logo=Unity&logoColor=368AA4)
+![Unity]https://img.shields.io/badge/-UNITY-F7EBE3?
+style=flat-square&logo=Unity&logoColor=368AA4)
 
-![C#](https://img.shields.io/badge/-C#-<F6EAE2>?style=for-the-badge&logo=C#&logoColor=905DB9)
+![C#](https://img.shields.io/badge/-C#-F7EBE3?
+style=for-the-badge&logo=C#&logoColor=8F5DB7)
 
  
