@@ -1,6 +1,6 @@
 ![Header](https://github.com/OOpipoo/OOpipoo/blob/main/assets/image.png)
 
-- 🔭 I'm a beginner Unity developer
+- 🔭 I'm a Unity developer
 
 - 🌱 Languages and Tools
 
