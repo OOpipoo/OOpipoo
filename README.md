@@ -1,6 +1,6 @@
-# Hey, I'm Igor ;)
+# Hey, I'm Igor (;
 
-Unity Developer focused on C# and game development.
+Building games and tools with Unity & C#.
 
 ## Tech Stack
 
