@@ -1,4 +1,4 @@
-# Hey, I'm Igor (;
+# Hey there (;
 
 Building games and tools with Unity & C#.
 
